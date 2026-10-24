@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+app/data/.last_scenario.txt
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+collected_code.txt
